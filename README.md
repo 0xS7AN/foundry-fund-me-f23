@@ -13,7 +13,7 @@
 
 ```
 git clone https://github.com/0xS7AN/foundry-fund-me-f23
-cd foundry-fund-me
+cd foundry-fund-me-f23
 forge build
 ```
 
